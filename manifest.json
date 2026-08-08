@@ -1,0 +1,22 @@
+{
+  "name": "Trip Hội An · Huế 2026 🌴",
+  "short_name": "Trip 🌴",
+  "description": "Kế hoạch chuyến đi 09-13/08/2026",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f5f0",
+  "theme_color": "#e67e22",
+  "icons": [
+    {
+      "src": "https://fav.farm/%F0%9F%8C%B4",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://fav.farm/%F0%9F%8C%B4",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
